@@ -7,3 +7,7 @@ There are also some files along with the DATA SET from here:
 3. There's a modif.csv file: https://drive.google.com/file/d/1GpUCdsHE2WOmWYqWVx6COyAoOyX9eqyE/view?usp=sharing
 
 Run the code on Jupyter Notebook / Google Colab.
+
+Here are the results:
+
+https://github.com/Rush-Code10/Game-Recommendation-System/blob/main/Results.jpg
